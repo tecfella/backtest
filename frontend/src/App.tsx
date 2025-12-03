@@ -1,4 +1,4 @@
-import { MarketChart } from './components/MarketChart';
+import { MarketChart } from './components/MarketChart'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
         <MarketChart />
       </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
